@@ -1,3 +1,5 @@
+#BUYING BEHAVIOUR OF NIGERIANS IN 2025
+
 ## 📌 Overview
 
 This project explores the buying behaviour of Nigerians using survey-based data.
