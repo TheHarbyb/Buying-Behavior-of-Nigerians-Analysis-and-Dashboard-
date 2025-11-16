@@ -125,8 +125,8 @@ The most active shoppers are primarily aged 18–35, located mostly in Lagos.
 
 Spending varies widely, with a significant number of respondents in the high monthly spend category.
 
-## Preview
-
+## Preview of Dashboard
+https://github.com/TheHarbyb/Buying-Behavior-of-Nigerians-Analysis-and-Dashboard-/blob/main/DASHBOARD%20.png
 
 
 ## 👤 Author
